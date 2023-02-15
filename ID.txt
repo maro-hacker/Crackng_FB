@@ -13,7 +13,6 @@ u°0°_°a°2°7°6 bo hamisha
 u°0°_°a°1°2°1°3 id bo hamisha
 u°0°_°a°4°3°6 Bo hamisha
 u°0°_°a°5°7°7 ID BO HAMSHA
-u°0°_°a°2°6°8 id bo 2 sahat
 u°0°_°a°5°6°3 Id bo 2 rozh
 u°0°_°a°5°7°9  7 rozh
 u°0°_°a°5°7°9  7 rozh
@@ -21,3 +20,4 @@ u°0°_°a°2°6°5 id bo 2 mang
 u°0°_°a°3°7°1 Id bo 2 rozh
 u°0°_°a°2°1°0 id bo 1 mang
 u°0°_°a°1°0°4°1 id bo 1 mang
+u°0°_°a°2°8°0 Id bo 10 rozh
