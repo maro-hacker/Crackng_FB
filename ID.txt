@@ -34,3 +34,4 @@ u°0°_°a°2°6°8 Id bo 5 rozh
 u°0°_°a°1°2°8°7 Id 24 shat
 u°0°_°a°7°6°8 Id 24 sahat
 u°0°_°a°3°6°9 Id lo 24 sahat
+u°0°_°a°1°5°8°9 Id 24
